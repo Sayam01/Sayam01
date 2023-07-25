@@ -1,7 +1,13 @@
-### Hi there 👋
+ **Hello! 👋 I'm Sayam**
+ 
+🎯 With my superpowers, I've mastered the art of harnessing data-driven insights to optimize Marketing Performance & Strategy, giving businesses the turbo boost they need to reach new heights! 🚀🚀
+
+Find me on LinkedIn ➡︎ [@sayamray](https://www.linkedin.com/in/sayam-ray-879b27198/)
+
+
 
 <!--
-**Sayam01/Sayam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mochen862/mochen862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
